@@ -1,0 +1,167 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background-color:#FDFFF4;
+}
+#main_wrapper{
+	max-width: 800px;
+	margin: 0 auto;
+}
+/************* Header *************/
+#logoAccueil{
+	float:left;
+	background-image:url('../images/Accueil.png');
+	background-repeat:no-repeat;
+	width:127px;
+	height:40px;
+}
+#logoPhoto{
+	float:left;
+	margin-left:200px;
+	background-image:url('../images/GaleriePhotos.png');
+	background-repeat:no-repeat;
+	width:143px;
+	height:41px;
+}
+#logoContact{
+	float:right;
+	background-image:url('../images/Contact.png');
+	background-repeat:no-repeat;
+	width:128px;
+	height:41px;
+}
+.nav:hover{
+	opacity:0.5;
+}
+nav{
+	margin-top:35px;
+	margin-bottom:40px;
+	border-bottom:1px solid #CCCCCC;
+}
+#logo{
+	background-image:url('../images/Logo.png');
+	background-repeat:no-repeat;
+	width:528px;
+	height:149px;
+	margin: 0 auto;
+	margin-bottom:40px;
+}
+header{
+	border-bottom:1px solid #CCCCCC;
+	margin-bottom:50px;
+}
+
+/************ Main **************/
+#main{
+	max-width: 700px;
+	margin: 0 auto;
+}
+h1{
+	font-family: 'Sorts Mill Goudy', cursive;
+	-webkit-font-smoothing:antialiased;
+	font-weight:normal;
+	color:#474749;
+	font-size:30px;
+}
+p{
+	font-family: 'Sorts Mill Goudy', serif;
+	-webkit-font-smoothing:antialiased;
+	font-weight:normal;
+	font-size:18px;
+	color:#474749;
+}
+#photoAccueil{
+	width: 100%;
+	text-align: center;
+}
+/************ Section Chambre *************/
+#suiteCoteLac{
+	border-top:1px solid #CCCCCC;
+	border-bottom:1px solid #CCCCCC;
+}
+#chambreCoteJardin{
+	border-bottom:1px solid #CCCCCC;
+}
+#chambreBleu{
+	border-bottom:1px solid #CCCCCC;
+}
+#ChambreCoteMontagne{
+	border-bottom:1px solid #CCCCCC;
+}
+#chambreCoteCiel{
+	border-bottom:1px solid #CCCCCC;
+}
+#chaletSurlelac{
+	border-bottom:1px solid #CCCCCC;
+}
+/************* Footer ***********/
+h3{
+	font-family: 'Sorts Mill Goudy', cursive;
+	-webkit-font-smoothing:antialiased;
+	font-weight:bold;
+	/*color:#FDFFF4;*/
+	color:#190B07;
+}
+footer{
+	margin-top:60px;
+	background-color:#F06457;
+	height:260px;
+}
+#beau{
+	background-color:#C95449;
+	height:15px;
+}
+#contenu{
+	max-width: 800px;
+	margin: 0 auto;
+}
+#siteWeb{
+	float:left;
+	border-right:1px solid #FDFFF4;
+	padding-right:30px;
+	padding-left:100px;
+}
+#sitePlan{
+	float:left;
+	padding-left:30px;
+}
+.linkFooter {
+	color:#190B07;
+	font-size:18px;
+}
+.linkFooter:visited{
+	color:#190B07;
+}
+#credit{
+	font-family: 'Sorts Mill Goudy', cursive;
+	-webkit-font-smoothing:antialiased;
+	margin-top:18px;
+	margin-left:250px;
+}
+/*********** page photo **********/
+
+img{
+	border:3px solid #CCCCCC;
+}
+#photoExt{
+	background-image:url('../images/Exterior.png');
+	background-repeat:no-repeat;
+	width:159px;
+	height:35px;
+}
+#photoInt{
+	background-image:url('../images/Interior.png');
+	background-repeat:no-repeat;
+	width:158px;
+	height:35px;
+}
+
+
+
+
+
+.clear {
+	clear:both;
+}
