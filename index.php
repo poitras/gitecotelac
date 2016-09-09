@@ -66,7 +66,7 @@
 		</div>
 		<div id="ChambreCoteMontagne">
 			<h1>Chambre Côté-Montagne</h1>
-			<p>Chambre avec un lit king, vue sur le lac Mégantic et les montagnes</p>
+			<p>Chambre avec un lit king et salle de bain privée, vue sur le lac Mégantic et les montagnes</p>
 			<div>
 				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne1.jpg"><img alt="" src="images/imageChambre/cotemontagne1s.jpg"/></a>
 				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne2.jpg"><img alt="" src="images/imageChambre/cotemontagne2s.jpg"/></a>
