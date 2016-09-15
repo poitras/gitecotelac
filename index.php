@@ -50,8 +50,8 @@
 
 				<a class="grouped_elements" rel="group2" href="images/imageSuite/image5.jpg"><img alt="" src="images/imageSuite/image5s.jpg"/></a>
 			</div>
-			<p>Prix spécial hors saison: 99$ la nuit pour 2 personnes.</p>
-			<p>Prix de juin à septembre: 110$ la nuit pour 2 personnes.</p>
+			<p>110$ la nuit pour 2 personnes.</p>
+			<p>Prix spécial du 16 octobre au 16 mai: 99$ la nuit pour 2 personnes.</p>
 		</div>
 		<div id="chambreCoteCiel">
 			<h1>Chambre Côté-Ciel</h1>
@@ -61,8 +61,8 @@
 				<a class="grouped_elements" rel="group6" href="images/chambrecoteciel2/coteciel2.jpg"><img alt="" src="images/chambrecoteciel2/coteciel2s.jpg"/></a>
 				<a class="grouped_elements" rel="group6" href="images/chambrecoteciel2/coteciel3.jpg"><img alt="" src="images/chambrecoteciel2/coteciel3s.jpg"/></a>
 			</div>
-			<p>Prix spécial hors saison: 86$ la nuit pour 2 personnes.</p>
-			<p>Prix de juin à septembre: 95$ la nuit pour 2 personnes.</p>
+			<p>95$ la nuit pour 2 personnes.</p>
+			<p>Prix spécial du 16 octobre au 16 mai: 86$ la nuit pour 2 personnes.</p>
 		</div>
 		<div id="ChambreCoteMontagne">
 			<h1>Chambre Côté-Montagne</h1>
@@ -72,8 +72,8 @@
 				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne2.jpg"><img alt="" src="images/imageChambre/cotemontagne2s.jpg"/></a>
 				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne3.jpg"><img alt="" src="images/imageChambre/cotemontagne3s.jpg"/></a>
 			</div>
-			<p>Prix spécial hors saison: 80$ la nuit pour 2 personnes.</p>
-			<p>Prix de juin à septembre: 90$ la nuit pour 2 personnes.</p>
+			<p>90$ la nuit pour 2 personnes.</p>
+			<p>Prix spécial du 16 octobre au 16 mai: 80$ la nuit pour 2 personnes.</p>
 		</div>
 		<div id="chaletSurlelac">
 			<h1>Chambre Côté-Chalet</h1>
@@ -83,8 +83,7 @@
 				<a class="grouped_elements" rel="group7" href="images/chalet/photochalet2.jpg"><img alt="" src="images/chalet/photochalet2s.jpg"/></a>
 				<a class="grouped_elements" rel="group7" href="images/chalet/photochalet3.jpg"><img alt="" src="images/chalet/photochalet3s.jpg"/></a>
 			</div>
-			<p>Prix spécial hors saison: 68$ la nuit pour 2 personnes.</p>
-			<p>Prix de juin à septembre: 75$ la nuit pour 2 personnes.</p>
+			<p>75$ la nuit pour 2 personnes.</p>
 		</div>
 		<div id="chambreCoteJardin">
 			<h1>Chambre Coté-Jardin</h1>
@@ -94,8 +93,8 @@
 
 				<a class="grouped_elements" rel="group3" href="images/imageChambre/imageChambre2.jpg"><img alt="" src="images/imageChambre/imageChambre2s.jpg"/></a>
 			</div>
-			<p>Prix spécial hors saison: 68$ la nuit pour 2 personnes.</p>
-			<p>Prix de juin à septembre: 75$ la nuit pour 2 personnes.</p>
+			<p>75$ la nuit pour 2 personnes.</p>
+			<p>Prix spécial du 16 octobre au 16 mai: 68$ la nuit pour 2 personnes.</p>
 		</div>
 		<div>
 			<p style="line-height:85%;">
