@@ -77,11 +77,11 @@ p{
 	text-align: center;
 }
 /************ Section Chambre *************/
-#suiteCoteLac{
+#chambreCoteLac{
 	border-top:1px solid #CCCCCC;
 	border-bottom:1px solid #CCCCCC;
 }
-#chambreCoteJardin{
+#leStudio{
 	border-bottom:1px solid #CCCCCC;
 }
 #chambreBleu{

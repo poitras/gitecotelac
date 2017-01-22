@@ -13,16 +13,21 @@
 		<h1>Bienvenue sur <em>Gîte Côté-Lac</em> <strong>B&B</strong></h1>
 		<br/>
 		<p>
-			Le <strong>Gîte Côté-Lac</strong> vous propose un séjour inoubliable
-			sur les rives du <strong>lac Mégantic</strong>. Situé sur la magnifique <strong>Route des Sommets</strong>, le cachet, l’esthétique et
-			le confort vous y attendent, ainsi que des petits déjeuners
-			copieux qui vous feront « craquer ».
-		</p>
-		<br/>
+			<strong>Gîte Côté-Lac</strong> vous propose un séjour inoubliable sur les rives
+			du <strong>lac Mégantic</strong>. Dans cette région de ciel étoilé, et sur la
+			magnifique <strong>Route des Sommets, Gîte Côté-Lac</strong> se trouve en plein
+			cœur de cette alliance entre l’eau, le ciel et les montagnes.
+		</p><br/>
 		<p>
-			Dans cette région de ciel étoilé, le <strong>Gîte Côté-Lac</strong> se trouve
-			en plein cœur de cette alliance entre l’eau, le ciel et les
-			montagnes. Il nous fera grand plaisir de vous en faire profiter.
+			Toutes nos chambres ont  une vue superbe sur le lac Mégantic ainsi
+			qu'une salle de bain privée. Vous profiterez de nos petits
+			déjeuners copieux face à la vue panoramique sur le lac, sur la
+			terrasse ou dans la salle à manger du gîte. Gîte Côté-Lac est au
+			bord de l'eau et la plage privée, le quai et autres installations
+			sont  à votre disposition.
+		</p><br>
+		<p>
+			N'hésitez pas à nous <a href="contact.php">contacter</a> pour toute question.
 		</p>
 		<div id="photoAccueil">
 			<br/>
@@ -38,27 +43,28 @@
 			<br/>
 		</div>
 		<br/>
-		<div id="suiteCoteLac">
-			<h1>Suite Coté-Lac</h1>
-			<p>Très grande chambre avec lit Queen, vue sur le lac Mégantic, salle de bain privée avec douche, salle à manger et cuisine</p>
+		<div id="chambreCoteLac">
+			<h1>Chambre Coté-Lac</h1>
+			<p>Chambre avec lit Queen et grand fauteuil confortable, très belle vue face au lac Mégantic, grande salle de bain privée avec douche.</p>
 			<div>
-				<a class="grouped_elements" rel="group2" href="images/imageSuite/image1.jpg"><img alt="" src="images/imageSuite/image1s.jpg"/></a>
+				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac1.JPG"><img alt="" src="images/imageSuite/chambrecotelac1-s.jpg"/></a>
 
-				<a class="grouped_elements" rel="group2" href="images/imageSuite/image2.jpg"><img alt="" src="images/imageSuite/image2s.jpg"/></a>
+				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac2.JPG"><img alt="" src="images/imageSuite/chambrecotelac2-s.jpg"/></a>
 
-				<a class="grouped_elements" rel="group2" href="images/imageSuite/image3.jpg"><img alt="" src="images/imageSuite/image3s.jpg"/></a>
+				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac3.JPG"><img alt="" src="images/imageSuite/chambrecotelac3-s.jpg"/></a>
 
-				<a class="grouped_elements" rel="group2" href="images/imageSuite/image5.jpg"><img alt="" src="images/imageSuite/image5s.jpg"/></a>
+				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac4.JPG"><img alt="" src="images/imageSuite/chambrecotelac4-s.jpg"/></a>
 			</div>
-			<p>110$ la nuit pour 2 personnes.</p>
+			<p>95$ la nuit pour 2 personnes</p>
 		</div>
 		<div id="chambreCoteCiel">
 			<h1>Chambre Côté-Ciel</h1>
 			<p>Chambre avec un lit queen et salle de bain privée, vue panoramique sur le lac Mégantic</p>
 			<div>
-				<a class="grouped_elements" rel="group6" href="images/chambrecoteciel2/coteciel1.jpg"><img alt="" src="images/chambrecoteciel2/coteciel1s.jpg"/></a>
-				<a class="grouped_elements" rel="group6" href="images/chambrecoteciel2/coteciel2.jpg"><img alt="" src="images/chambrecoteciel2/coteciel2s.jpg"/></a>
-				<a class="grouped_elements" rel="group6" href="images/chambrecoteciel2/coteciel3.jpg"><img alt="" src="images/chambrecoteciel2/coteciel3s.jpg"/></a>
+				<a class="grouped_elements" rel="group6" href="images/chambreCoteCiel/coteciel1.jpg"><img alt="" src="images/chambreCoteCiel/coteciel1-s.jpg"/></a>
+				<a class="grouped_elements" rel="group6" href="images/chambreCoteCiel/coteciel2.jpg"><img alt="" src="images/chambreCoteCiel/coteciel2-s.jpg"/></a>
+				<a class="grouped_elements" rel="group6" href="images/chambreCoteCiel/coteciel3.jpg"><img alt="" src="images/chambreCoteCiel/coteciel3-s.jpg"/></a>
+				<a class="grouped_elements" rel="group6" href="images/chambreCoteCiel/coteciel4.jpg"><img alt="" src="images/chambreCoteCiel/coteciel4-s.jpg"/></a>
 			</div>
 			<p>95$ la nuit pour 2 personnes.</p>
 		</div>
@@ -66,9 +72,11 @@
 			<h1>Chambre Côté-Montagne</h1>
 			<p>Chambre avec un lit king et salle de bain privée, vue sur le lac Mégantic et les montagnes</p>
 			<div>
-				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne1.jpg"><img alt="" src="images/imageChambre/cotemontagne1s.jpg"/></a>
-				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne2.jpg"><img alt="" src="images/imageChambre/cotemontagne2s.jpg"/></a>
-				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne3.jpg"><img alt="" src="images/imageChambre/cotemontagne3s.jpg"/></a>
+				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne1.jpg"><img alt="" src="images/imagecotemontagne/cotemontagne1-s.jpg"/></a>
+				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne3.jpg"><img alt="" src="images/imagecotemontagne/cotemontagne3-s.jpg"/></a>
+				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne4.jpg"><img alt="" src="images/imagecotemontagne/cotemontagne4-s.jpg"/></a>
+				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne2.jpg"><img alt="" src="images/imagecotemontagne/cotemontagne2-s.jpg"/></a>
+
 			</div>
 			<p>90$ la nuit pour 2 personnes.</p>
 		</div>
@@ -82,15 +90,17 @@
 			</div>
 			<p>75$ la nuit pour 2 personnes.</p>
 		</div>
-		<div id="chambreCoteJardin">
-			<h1>Chambre Coté-Jardin</h1>
-			<p>Chambre avec un lit double</p>
+		<div id="leStudio">
+			<h1>Le Studio</h1>
+			<p>Chambre avec un lit double, très belle vue face au lac Mégantic, salle de bain privée avec douche, cuisine.</p>
 			<div>
-				<a class="grouped_elements" rel="group3" href="images/imageChambre/imageChambre1.jpg"><img alt="" src="images/imageChambre/imageChambre1s.jpg"/></a>
+				<a class="grouped_elements" rel="group3" href="images/leStudio/leStudio1.jpg"><img alt="" src="images/leStudio/leStudio1-s.jpg"/></a>
 
-				<a class="grouped_elements" rel="group3" href="images/imageChambre/imageChambre2.jpg"><img alt="" src="images/imageChambre/imageChambre2s.jpg"/></a>
+				<a class="grouped_elements" rel="group3" href="images/leStudio/leStudio2.jpg"><img alt="" src="images/leStudio/leStudio2-s.jpg"/></a>
+
+				<a class="grouped_elements" rel="group3" href="images/leStudio/leStudio3.jpg"><img alt="" src="images/leStudio/leStudio3-s.jpg"/></a>
 			</div>
-			<p>75$ la nuit pour 2 personnes.</p>
+			<p>95$ la nuit pour 2 personnes</p>
 		</div>
 		<div>
 			<p style="line-height:85%;">
