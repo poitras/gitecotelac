@@ -31,15 +31,15 @@
 		</p>
 		<div id="photoAccueil">
 			<br/>
-			<a class="grouped_elements" rel="group1" href="images/imageExt/image9.jpg"><img alt="Piopolis, Route des Sommets" src="images/imageExt/image9s.jpg"/></a>
+			<a class="grouped_elements" rel="group1" href="images/imageRandom/image9.jpg"><img alt="Piopolis, Route des Sommets" src="images/imageRandom/image9s.jpg"/></a>
 
-			<a class="grouped_elements" rel="group1" href="images/imageExt/image1.jpg"><img alt="Le gîte au bord du lac Mégantic" src="images/imageExt/image1s.jpg"/></a>
+			<a class="grouped_elements" rel="group1" href="images/imageRandom/image1.jpg"><img alt="Le gîte au bord du lac Mégantic" src="images/imageRandom/image1s.jpg"/></a>
 
-			<a class="grouped_elements" rel="group1" href="images/imageExt/imageDej.jpg"><img alt="Petit déjeuner" src="images/imageExt/imageDejs.jpg"/></a>
+			<a class="grouped_elements" rel="group1" href="images/imageRandom/imageDej.jpg"><img alt="Petit déjeuner" src="images/imageRandom/imageDejs.jpg"/></a>
 
-			<a class="grouped_elements" rel="group1" href="images/imageExt/image4.jpg"><img alt="Lever du soleil sur le Lac Mégantic" src="images/imageExt/image4s.jpg"/></a>
+			<a class="grouped_elements" rel="group1" href="images/imageRandom/image4.jpg"><img alt="Lever du soleil sur le Lac Mégantic" src="images/imageRandom/image4s.jpg"/></a>
 
-			<a class="grouped_elements" rel="group1" href="images/imageExt/image5.jpg"><img alt="Gîte, vu du Lac Mégantic" src="images/imageExt/image5s.jpg"/></a>
+			<a class="grouped_elements" rel="group1" href="images/imageRandom/image5.jpg"><img alt="Gîte, vu du Lac Mégantic" src="images/imageRandom/image5s.jpg"/></a>
 			<br/>
 		</div>
 		<br/>
