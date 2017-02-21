@@ -55,7 +55,9 @@
 
 				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac4.JPG"><img alt="" src="images/imageSuite/chambrecotelac4-s.jpg"/></a>
 			</div>
-			<p>95$ la nuit pour 2 personnes</p>
+			<p>Haute-saison: 98$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
+				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 78$ et 92$</strong> selon la date et les spéciaux en semaine,
+				<a href="contact.php">appelez-nous !</a></p>
 		</div>
 		<div id="chambreCoteCiel">
 			<h1>Chambre Côté-Ciel</h1>
@@ -80,16 +82,6 @@
 			</div>
 			<p>90$ la nuit pour 2 personnes.</p>
 		</div>
-		<div id="chaletSurlelac">
-			<h1>Chambre Côté-Chalet</h1>
-			<p>Petit chalet avec deux lits doubles superposés, directement au bord l'eau</p>
-			<div>
-				<a class="grouped_elements" rel="group7" href="images/chalet/photochalet1.jpg"><img alt="" src="images/chalet/photochalet1s.jpg"/></a>
-				<a class="grouped_elements" rel="group7" href="images/chalet/photochalet2.jpg"><img alt="" src="images/chalet/photochalet2s.jpg"/></a>
-				<a class="grouped_elements" rel="group7" href="images/chalet/photochalet3.jpg"><img alt="" src="images/chalet/photochalet3s.jpg"/></a>
-			</div>
-			<p>75$ la nuit pour 2 personnes.</p>
-		</div>
 		<div id="leStudio">
 			<h1>Le Studio</h1>
 			<p>Chambre avec un lit double, très belle vue face au lac Mégantic, salle de bain privée avec douche, cuisine.</p>
@@ -101,6 +93,16 @@
 				<a class="grouped_elements" rel="group3" href="images/leStudio/leStudio3.jpg"><img alt="" src="images/leStudio/leStudio3-s.jpg"/></a>
 			</div>
 			<p>95$ la nuit pour 2 personnes</p>
+		</div>
+		<div id="chaletSurlelac">
+			<h1>Chambre Côté-Chalet</h1>
+			<p>Petit chalet avec deux lits doubles superposés, directement au bord l'eau</p>
+			<div>
+				<a class="grouped_elements" rel="group7" href="images/chalet/photochalet1.jpg"><img alt="" src="images/chalet/photochalet1s.jpg"/></a>
+				<a class="grouped_elements" rel="group7" href="images/chalet/photochalet2.jpg"><img alt="" src="images/chalet/photochalet2s.jpg"/></a>
+				<a class="grouped_elements" rel="group7" href="images/chalet/photochalet3.jpg"><img alt="" src="images/chalet/photochalet3s.jpg"/></a>
+			</div>
+			<p>75$ la nuit pour 2 personnes.</p>
 		</div>
 		<div>
 			<p style="line-height:85%;">
