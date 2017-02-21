@@ -55,20 +55,26 @@
 
 				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac4.JPG"><img alt="" src="images/imageSuite/chambrecotelac4-s.jpg"/></a>
 			</div>
-			<p>Haute-saison: 98$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
+			<p>
+				Haute-saison: 98$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
 				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 78$ et 92$</strong> selon la date et les spéciaux en semaine,
-				<a href="contact.php">appelez-nous !</a></p>
+				<a href="contact.php">appelez-nous !</a>
+			</p><br>
 		</div>
 		<div id="chambreCoteCiel">
 			<h1>Chambre Côté-Ciel</h1>
-			<p>Chambre avec un lit queen et salle de bain privée, vue panoramique sur le lac Mégantic</p>
+			<p>Chambre avec un lit queen, salle de bain privée avec bain thérapeutique, petit réfrigérateur, vue panoramique sur le lac Mégantic.</p>
 			<div>
 				<a class="grouped_elements" rel="group6" href="images/chambreCoteCiel/coteciel1.jpg"><img alt="" src="images/chambreCoteCiel/coteciel1-s.jpg"/></a>
 				<a class="grouped_elements" rel="group6" href="images/chambreCoteCiel/coteciel2.jpg"><img alt="" src="images/chambreCoteCiel/coteciel2-s.jpg"/></a>
 				<a class="grouped_elements" rel="group6" href="images/chambreCoteCiel/coteciel3.jpg"><img alt="" src="images/chambreCoteCiel/coteciel3-s.jpg"/></a>
 				<a class="grouped_elements" rel="group6" href="images/chambreCoteCiel/coteciel4.jpg"><img alt="" src="images/chambreCoteCiel/coteciel4-s.jpg"/></a>
 			</div>
-			<p>95$ la nuit pour 2 personnes.</p>
+			<p>
+				Haute-saison: 98$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
+				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 78$ et 92$</strong> selon la date et les spéciaux en semaine,
+				<a href="contact.php">appelez-nous !</a>
+			</p><br>
 		</div>
 		<div id="ChambreCoteMontagne">
 			<h1>Chambre Côté-Montagne</h1>
@@ -78,13 +84,16 @@
 				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne3.jpg"><img alt="" src="images/imagecotemontagne/cotemontagne3-s.jpg"/></a>
 				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne4.jpg"><img alt="" src="images/imagecotemontagne/cotemontagne4-s.jpg"/></a>
 				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne2.jpg"><img alt="" src="images/imagecotemontagne/cotemontagne2-s.jpg"/></a>
-
 			</div>
-			<p>90$ la nuit pour 2 personnes.</p>
+			<p>
+				Haute-saison: 92$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
+				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 78$ et 89$</strong> selon la date et les spéciaux en semaine,
+				<a href="contact.php">appelez-nous !</a>
+			</p><br>
 		</div>
 		<div id="leStudio">
 			<h1>Le Studio</h1>
-			<p>Chambre avec un lit double, très belle vue face au lac Mégantic, salle de bain privée avec douche, cuisine.</p>
+			<p>Chambre avec un lit double, salle de bain privée avec douche, cuisine, vue sur le lac Mégantic.</p>
 			<div>
 				<a class="grouped_elements" rel="group3" href="images/leStudio/leStudio1.jpg"><img alt="" src="images/leStudio/leStudio1-s.jpg"/></a>
 
@@ -92,7 +101,11 @@
 
 				<a class="grouped_elements" rel="group3" href="images/leStudio/leStudio3.jpg"><img alt="" src="images/leStudio/leStudio3-s.jpg"/></a>
 			</div>
-			<p>95$ la nuit pour 2 personnes</p>
+			<p>
+				Haute-saison: 95$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
+				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 78$ et 92$</strong> selon la date et les spéciaux en semaine,
+				<a href="contact.php">appelez-nous !</a>
+			</p><br>
 		</div>
 		<div id="chaletSurlelac">
 			<h1>Chambre Côté-Chalet</h1>
@@ -109,7 +122,7 @@
 				<font size="2.5">
 					<br>
 					Les taxes ne sont pas incluses dans les prix ci-dessus.<br>
-					Taxe d'hébergement du Québec: rajouter 3$ pour chaque nuitée<br>
+					Taxe d'hébergement du Québec: rajouter 3,5% pour chaque nuitée<br>
 					TPS TVQ  14,97%<br><br>
 					Prix pour 1 personne supplémentaire (enfant ou adulte) dans une chambre: 25$<br><br>
 
