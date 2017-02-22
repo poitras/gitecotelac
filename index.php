@@ -47,13 +47,13 @@
 			<h1>Chambre Coté-Lac</h1>
 			<p>Chambre avec lit Queen et grand fauteuil confortable, très belle vue face au lac Mégantic, grande salle de bain privée avec douche.</p>
 			<div>
-				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac1.JPG"><img alt="" src="images/imageSuite/chambrecotelac1-s.jpg"/></a>
+				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac1.jpg"><img alt="" src="images/imageSuite/chambrecotelac1-s.jpg"/></a>
 
-				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac2.JPG"><img alt="" src="images/imageSuite/chambrecotelac2-s.jpg"/></a>
+				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac2.jpg"><img alt="" src="images/imageSuite/chambrecotelac2-s.jpg"/></a>
 
-				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac3.JPG"><img alt="" src="images/imageSuite/chambrecotelac3-s.jpg"/></a>
+				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac3.jpg"><img alt="" src="images/imageSuite/chambrecotelac3-s.jpg"/></a>
 
-				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac4.JPG"><img alt="" src="images/imageSuite/chambrecotelac4-s.jpg"/></a>
+				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac4.jpg"><img alt="" src="images/imageSuite/chambrecotelac4-s.jpg"/></a>
 			</div>
 			<p>
 				Haute-saison: 98$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
