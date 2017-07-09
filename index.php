@@ -102,7 +102,7 @@
 				<a class="grouped_elements" rel="group3" href="images/leStudio/leStudio3.jpg"><img alt="" src="images/leStudio/leStudio3-s.jpg"/></a>
 			</div>
 			<p>
-				Haute-saison: 95$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
+				Haute-saison: 98$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
 				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 78$ et 92$</strong> selon la date et les spéciaux en semaine,
 				<a href="contact.php">appelez-nous !</a>
 			</p><br>
