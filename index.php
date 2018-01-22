@@ -57,7 +57,7 @@
 			</div>
 			<p>
 				Haute-saison: 98$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
-				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 78$ et 92$</strong> selon la date et les spéciaux en semaine,
+				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 85$ et 95$</strong> selon la date et les spéciaux en semaine,
 				<a href="contact.php">appelez-nous !</a>
 			</p><br>
 		</div>
@@ -72,7 +72,7 @@
 			</div>
 			<p>
 				Haute-saison: 98$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
-				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 78$ et 92$</strong> selon la date et les spéciaux en semaine,
+				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 85$ et 95$</strong> selon la date et les spéciaux en semaine,
 				<a href="contact.php">appelez-nous !</a>
 			</p><br>
 		</div>
@@ -87,7 +87,7 @@
 			</div>
 			<p>
 				Haute-saison: 92$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
-				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 78$ et 89$</strong> selon la date et les spéciaux en semaine,
+				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 85$ et 95$</strong> selon la date et les spéciaux en semaine,
 				<a href="contact.php">appelez-nous !</a>
 			</p><br>
 		</div>
@@ -103,7 +103,7 @@
 			</div>
 			<p>
 				Haute-saison: 98$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
-				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 78$ et 92$</strong> selon la date et les spéciaux en semaine,
+				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 85$ et 95$</strong> selon la date et les spéciaux en semaine,
 				<a href="contact.php">appelez-nous !</a>
 			</p><br>
 		</div>
