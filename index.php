@@ -56,9 +56,9 @@
 				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac4.jpg"><img alt="" src="images/imageSuite/chambrecotelac4-s.jpg"/></a>
 			</div>
 			<p>
-				Haute-saison: 98$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
-				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 85$ et 95$</strong> selon la date et les spéciaux en semaine,
-				<a href="contact.php">appelez-nous !</a>
+				<strong>Haute-saison:</strong> mai à octobre, <strong>pris entre 95$ et 105$</strong> selon les dates.
+				<br><strong>Basse saison:</strong> 20 octobre au 15 mai, <strong>prix entre 85$ et 99$</strong> selon les dates.
+				<br><a href="contact.php">Appelez-nous !</a>
 			</p><br>
 		</div>
 		<div id="chambreCoteCiel">
@@ -71,9 +71,9 @@
 				<a class="grouped_elements" rel="group6" href="images/chambreCoteCiel/coteciel4.jpg"><img alt="" src="images/chambreCoteCiel/coteciel4-s.jpg"/></a>
 			</div>
 			<p>
-				Haute-saison: 98$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
-				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 85$ et 95$</strong> selon la date et les spéciaux en semaine,
-				<a href="contact.php">appelez-nous !</a>
+				<strong>Haute-saison:</strong> mai à octobre, <strong>pris entre 89$ et 99$</strong> selon les dates.
+				<br><strong>Basse saison:</strong> 20 octobre au 15 mai, <strong>prix entre 82$ et 98$</strong> selon les dates.
+				<br><a href="contact.php">Appelez-nous !</a>
 			</p><br>
 		</div>
 		<div id="ChambreCoteMontagne">
@@ -86,14 +86,14 @@
 				<a class="grouped_elements" rel="group5" href="images/imagecotemontagne/cotemontagne2.jpg"><img alt="" src="images/imagecotemontagne/cotemontagne2-s.jpg"/></a>
 			</div>
 			<p>
-				Haute-saison: 92$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
-				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 85$ et 95$</strong> selon la date et les spéciaux en semaine,
-				<a href="contact.php">appelez-nous !</a>
+				<strong>Haute-saison:</strong> mai à octobre, <strong>pris entre 89$ et 99$</strong> selon les dates.
+				<br><strong>Basse saison:</strong> 20 octobre au 15 mai, <strong>prix entre 82$ et 98$</strong> selon les dates.
+				<br><a href="contact.php">Appelez-nous !</a>
 			</p><br>
 		</div>
 		<div id="leStudio">
 			<h1>Le Studio</h1>
-			<p>Chambre avec un lit double, salle de bain privée avec douche, cuisine, vue sur le lac Mégantic.</p>
+			<p>Chambre avec un lit queen, salle de bain privée avec douche, cuisine, vue sur le lac Mégantic.</p>
 			<div>
 				<a class="grouped_elements" rel="group3" href="images/leStudio/leStudio1.jpg"><img alt="" src="images/leStudio/leStudio1-s.jpg"/></a>
 
@@ -102,9 +102,9 @@
 				<a class="grouped_elements" rel="group3" href="images/leStudio/leStudio3.jpg"><img alt="" src="images/leStudio/leStudio3-s.jpg"/></a>
 			</div>
 			<p>
-				Haute-saison: 98$ la nuit pour 2 personnes ( demander s'il y a un spécial pour les jours de semaine)
-				<br><strong>Basse saison</strong> du 20 octobre au 15 mai: <strong>prix entre 85$ et 95$</strong> selon la date et les spéciaux en semaine,
-				<a href="contact.php">appelez-nous !</a>
+				<strong>Haute-saison:</strong> mai à octobre, <strong>pris entre 95$ et 105$</strong> selon les dates.
+				<br><strong>Basse saison:</strong> 20 octobre au 15 mai, <strong>prix entre 85$ et 99$</strong> selon les dates.
+				<br><a href="contact.php">Appelez-nous !</a>
 			</p><br>
 		</div>
 		<div id="chaletSurlelac">
@@ -115,7 +115,10 @@
 				<a class="grouped_elements" rel="group7" href="images/chalet/photochalet2.jpg"><img alt="" src="images/chalet/photochalet2s.jpg"/></a>
 				<a class="grouped_elements" rel="group7" href="images/chalet/photochalet3.jpg"><img alt="" src="images/chalet/photochalet3s.jpg"/></a>
 			</div>
-			<p>79$ la nuit pour 2 personnes.</p>
+			<p>
+				89$ la nuit pour 2 personnes.
+				<br><a href="contact.php">Appelez-nous !</a>
+			</p>
 		</div>
 		<div>
 			<p style="line-height:85%;">
