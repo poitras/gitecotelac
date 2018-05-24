@@ -116,7 +116,7 @@
 				<a class="grouped_elements" rel="group7" href="images/chalet/photochalet3.jpg"><img alt="" src="images/chalet/photochalet3s.jpg"/></a>
 			</div>
 			<p>
-				89$ la nuit pour 2 personnes.
+				98$ la nuit pour 2 personnes.
 				<br><a href="contact.php">Appelez-nous !</a>
 			</p>
 		</div>
