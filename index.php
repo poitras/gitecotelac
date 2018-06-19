@@ -129,9 +129,10 @@
 					TPS TVQ  14,97%<br><br>
 					Prix pour 1 personne supplémentaire (enfant ou adulte) dans une chambre: 25$<br><br>
 
-					Politique d'annulation: aucun frais si plus de 14 jours avant la date du séjour,<br>
-					50%  du prix du séjour  si  annulation entre 7 et 14 jours avant la date du séjour,<br>
-	 				100% du prix du séjour si annulation moins de 7 jours avant la date du séjour.
+					Politique d'annulation:<br>
+					30% payé à la réservation n'est pas remboursable<br>
+					70% du prix du séjour est remboursable si annulation plus de 14 jours avant la date d'arrivée<br>
+					100% du prix du séjour non remboursable si annulation moins de  14  jours avant la date d'arrivée
 				</font>
 			</p>
 				<br>
