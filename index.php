@@ -56,7 +56,7 @@
 				<a class="grouped_elements" rel="group2" href="images/imageSuite/chambrecotelac4.jpg"><img alt="" src="images/imageSuite/chambrecotelac4-s.jpg"/></a>
 			</div>
 			<p>
-				<strong>Haute saison:</strong> mai à octobre, <strong>prix entre 95$ et 105$</strong> selon les dates.
+				<strong>Haute saison:</strong> mai à octobre, <strong>prix entre 95$ et 110$</strong> selon les dates.
 				<br><strong>Basse saison:</strong> 20 octobre au 15 mai, <strong>prix entre 85$ et 99$</strong> selon les dates.
 				<br><a href="contact.php">Appelez-nous !</a>
 			</p><br>
@@ -102,7 +102,7 @@
 				<a class="grouped_elements" rel="group3" href="images/leStudio/leStudio3.jpg"><img alt="" src="images/leStudio/leStudio3-s.jpg"/></a>
 			</div>
 			<p>
-				<strong>Haute saison:</strong> mai à octobre, <strong>prix entre 95$ et 105$</strong> selon les dates.
+				<strong>Haute saison:</strong> mai à octobre, <strong>prix entre 95$ et 110$</strong> selon les dates.
 				<br><strong>Basse saison:</strong> 20 octobre au 15 mai, <strong>prix entre 85$ et 99$</strong> selon les dates.
 				<br><a href="contact.php">Appelez-nous !</a>
 			</p><br>
